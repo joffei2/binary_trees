@@ -3,7 +3,6 @@
 /**
  * binary_tree_sibling - finds the sibling of a node
  * @node: Pointer to the node to find the sibling
- *
  * Return: Node for the sibling
  */
 
